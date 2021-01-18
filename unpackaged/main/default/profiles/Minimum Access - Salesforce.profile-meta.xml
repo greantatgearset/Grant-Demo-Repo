@@ -214,9 +214,6 @@
     <layoutAssignments>
         <layout>ReturnOrderItemTax-Return Order Item Tax Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>Team__c-Team Layout</layout>
-    </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
